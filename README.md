@@ -43,6 +43,11 @@
 </p>
 
 <p align="center">
+  <img src="images/en-jeu.jpg" width="100%" alt="Dofus Touch dans Bouftou">
+  <br><em>En jeu : un onglet par personnage, les outils de Bouftou à gauche et la mini-carte dans la bulle de position.</em>
+</p>
+
+<p align="center">
   <img src="images/1-forgemagie.jpg" width="49%" alt="Forgemagie intelligente">
   <img src="images/2-stuffer.jpg" width="49%" alt="Stuffer">
   <img src="images/3-encyclopedie.jpg" width="49%" alt="Encyclopédie">
