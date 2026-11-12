@@ -38,6 +38,11 @@
 ## 📸 En images
 
 <p align="center">
+  <img src="images/lanceur.jpg" width="100%" alt="Le lanceur de Bouftou">
+  <br><em>Le lanceur : tes jeux, tes personnages et toutes les fonctionnalités, avant même d'entrer en jeu.</em>
+</p>
+
+<p align="center">
   <img src="images/1-forgemagie.jpg" width="49%" alt="Forgemagie intelligente">
   <img src="images/2-stuffer.jpg" width="49%" alt="Stuffer">
   <img src="images/3-encyclopedie.jpg" width="49%" alt="Encyclopédie">
@@ -46,10 +51,6 @@
   <img src="images/6-almanax.jpg" width="49%" alt="Almanax">
 </p>
 
-<p align="center">
-  <a href="https://bouftou-boutique.discord-boutique.workers.dev/video/bouftou-promo.mp4"><img src="images/video.jpg" width="80%" alt="Voir la vidéo de présentation de Bouftou"></a>
-  <br><em>Bouftou en vidéo : clique sur l'image pour la regarder.</em>
-</p>
 
 ## 🔁 Tu jouais sur Lindo ?
 
