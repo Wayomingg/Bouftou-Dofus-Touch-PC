@@ -47,8 +47,8 @@
 </p>
 
 <p align="center">
-  <img src="images/etats-en-combat.gif" width="70%" alt="Les états visibles en combat">
-  <br><em>Les états de chaque combattant au-dessus de sa tête, avec les tours restants.</em>
+  <a href="https://bouftou-boutique.discord-boutique.workers.dev/video/bouftou-promo.mp4"><img src="images/video.jpg" width="80%" alt="Voir la vidéo de présentation de Bouftou"></a>
+  <br><em>Bouftou en vidéo : clique sur l'image pour la regarder.</em>
 </p>
 
 ## 🔁 Tu jouais sur Lindo ?
