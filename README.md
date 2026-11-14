@@ -10,10 +10,14 @@
 
 [![Discord](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fdiscord.com%2Fapi%2Fv10%2Finvites%2FG65tcyqhTW%3Fwith_counts%3Dtrue&query=%24.approximate_member_count&label=Discord&suffix=%20membres&logo=discord&logoColor=white&color=5865F2&style=for-the-badge)](https://discord.gg/G65tcyqhTW)
 [![Bêta ouverte](https://img.shields.io/badge/b%C3%AAta%20ouverte-14%20%E2%86%92%2021%20novembre-b9e154?style=for-the-badge)](#beta)
+[![Version](https://img.shields.io/github/v/release/Wayomingg/Bouftou-Dofus-Touch-PC?label=version&color=cdb57e&style=for-the-badge)](https://github.com/Wayomingg/Bouftou-Dofus-Touch-PC/releases/latest)
+[![Téléchargements](https://img.shields.io/github/downloads/Wayomingg/Bouftou-Dofus-Touch-PC/total?label=t%C3%A9l%C3%A9chargements&color=b9e154&style=for-the-badge)](https://github.com/Wayomingg/Bouftou-Dofus-Touch-PC/releases/latest)
 [![Windows](https://img.shields.io/badge/Windows-10%20%7C%2011-0078D4?style=for-the-badge&logo=windows&logoColor=white)](#windows)
 [![Langue](https://img.shields.io/badge/langue-fran%C3%A7ais-cdb57e?style=for-the-badge)](#faq)
 
 ### 🧪 Bêta ouverte du samedi 14 novembre 17 h au samedi 21 novembre 17 h
+
+**[📥 Télécharger Bouftou](https://github.com/Wayomingg/Bouftou-Dofus-Touch-PC/releases/latest)** · **[🛡️ Rapport VirusTotal](https://www.virustotal.com/gui/file/744f42148f1135e7c270a40494a50d44b57d0ff436afdadc78d92ec8c641cffe)**
 
 </div>
 
@@ -74,8 +78,8 @@ Ce que Bouftou envoie à ses propres serveurs, et rien d'autre : ton compte Disc
 
 ## 🚀 Participer à la bêta
 
-1. **Rejoins le [Discord](https://discord.gg/G65tcyqhTW)** et clique sur **« Rejoindre la bêta test »** dans le salon bêta-test. Les préinscriptions sont ouvertes dès maintenant.
-2. **Samedi 14 novembre à 17 h**, télécharge Bouftou dans le salon **télécharger** du Discord.
+1. **Rejoins le [Discord](https://discord.gg/G65tcyqhTW)** et clique sur **« Rejoindre la bêta test »** dans le salon bêta-test.
+2. **Télécharge Bouftou** dans la **[dernière version de ce dépôt](https://github.com/Wayomingg/Bouftou-Dofus-Touch-PC/releases/latest)** ou dans le salon **télécharger** du Discord : c'est le même fichier.
 3. **Ouvre Bouftou et connecte-toi avec ton compte Discord** : ton accès bêta s'active tout seul. Puis connecte-toi à ton compte Ankama comme d'habitude.
 
 <a id="windows"></a>
@@ -84,7 +88,7 @@ Ce que Bouftou envoie à ses propres serveurs, et rien d'autre : ton compte Disc
 
 Bouftou n'a pas encore de certificat de signature, un abonnement payant que peu de projets indépendants peuvent s'offrir. Au premier lancement, Windows peut donc afficher **« Windows a protégé votre ordinateur »** : clique sur **Informations complémentaires**, puis sur **Exécuter quand même**. C'est normal pour un logiciel indépendant non signé.
 
-**Vérifier ton téléchargement** : l'empreinte SHA-256 de chaque installateur officiel est publiée avec sa version. Pour la comparer, ouvre PowerShell dans le dossier du fichier :
+**Vérifier ton téléchargement** : l'empreinte SHA-256 de chaque installateur officiel et son **rapport VirusTotal** sont publiés dans la note de sa [version](https://github.com/Wayomingg/Bouftou-Dofus-Touch-PC/releases). Pour comparer l'empreinte, ouvre PowerShell dans le dossier du fichier :
 
 ```powershell
 Get-FileHash .\Installer-Bouftou.exe -Algorithm SHA256
