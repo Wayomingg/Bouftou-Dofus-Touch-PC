@@ -21,6 +21,9 @@
 
 </div>
 
+> [!NOTE]
+> **Bouftou n'est pas un serveur privé.** C'est un logiciel pour jouer au vrai Dofus Touch sur PC : tu joues sur les **serveurs officiels d'Ankama**, avec ton compte et tes personnages habituels. Ta progression est la même que sur ton téléphone.
+
 > [!IMPORTANT]
 > **Méfie-toi des copies.** Les seuls endroits officiels de Bouftou sont **ce dépôt** et le **[Discord de Bouftou](https://discord.gg/G65tcyqhTW)**. Ne télécharge jamais Bouftou ailleurs, et ne donne jamais ton mot de passe Ankama ni ton code Shield à personne.
 
@@ -99,6 +102,9 @@ Si l'empreinte affichée est différente, ne lance pas le fichier et préviens-n
 <a id="faq"></a>
 
 ## ❓ Questions fréquentes
+
+**C'est un serveur privé ?**
+Non. Tu joues au vrai Dofus Touch, sur les serveurs officiels d'Ankama, avec ton compte et tes personnages habituels. Bouftou est le logiciel qui fait tourner le jeu sur ton PC.
 
 **C'est gratuit ?**
 Pendant les 7 jours de la bêta ouverte, oui. Ensuite, une licence Bouftou à vie est proposée dans la boutique du Discord.
