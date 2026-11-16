@@ -17,7 +17,7 @@
 
 ### 🧪 Bêta ouverte du samedi 14 novembre 17 h au samedi 21 novembre 17 h
 
-**[📥 Télécharger Bouftou](https://github.com/Wayomingg/Bouftou-Dofus-Touch-PC/releases/latest)** · **[🛡️ Rapport VirusTotal](https://www.virustotal.com/gui/file/744f42148f1135e7c270a40494a50d44b57d0ff436afdadc78d92ec8c641cffe)**
+**[📥 Télécharger Bouftou](https://github.com/Wayomingg/Bouftou-Dofus-Touch-PC/releases/latest)** · **[🛡️ Rapport VirusTotal](https://www.virustotal.com/gui/file/5c3f15399ac363ac929385ac28de3e3cadb936328fa08380f4939b2d31d7d333)**
 
 </div>
 
