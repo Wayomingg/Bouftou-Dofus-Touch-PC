@@ -6,7 +6,7 @@
 
 **Le client PC ultime pour Dofus Touch.** Fini l'émulateur : avec Bouftou, Dofus Touch se joue comme un vrai jeu PC, avec un comportement natif optimisé de bout en bout.
 
-<sub>🇬🇧 *Play Dofus Touch on PC without an emulator: a French-language client for Windows, macOS and Linux with smart forgemagic, autopilot, gear builder, dungeon guides, market tools and multi-account tabs. Open beta until November 28.*</sub>
+<sub>🇬🇧 *Play Dofus Touch on PC without an emulator: a French-language client for Windows, macOS and Linux with smart forgemagic, autopilot, gear builder, dungeon guides, market tools and multi-account tabs.*</sub>
 
 [![Discord](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fdiscord.com%2Fapi%2Fv10%2Finvites%2FG65tcyqhTW%3Fwith_counts%3Dtrue&query=%24.approximate_member_count&label=Discord&suffix=%20membres&logo=discord&logoColor=white&color=5865F2&style=for-the-badge)](https://discord.gg/G65tcyqhTW)
 [![Version](https://img.shields.io/github/v/release/Wayomingg/Bouftou-Dofus-Touch-PC?label=version&color=cdb57e&style=for-the-badge)](https://github.com/Wayomingg/Bouftou-Dofus-Touch-PC/releases/latest)
@@ -89,15 +89,6 @@ Lindo a permis à des milliers de joueurs de jouer à Dofus Touch sur PC, mais a
 
 Ce que Bouftou envoie à ses propres serveurs, et rien d'autre : ton compte Discord pour vérifier ton accès, les jeux ouverts et la version de Bouftou pendant que tu joues, et un rapport de bug seulement si tu choisis d'en envoyer un.
 
-<a id="beta"></a>
-
-## 🚀 Participer à la bêta
-
-1. **Rejoins le [Discord](https://discord.gg/G65tcyqhTW)** et clique sur **« Rejoindre la bêta test »** dans le salon bêta-test.
-2. **Télécharge Bouftou** : pour Windows, dans la **[dernière version de ce dépôt](https://github.com/Wayomingg/Bouftou-Dofus-Touch-PC/releases/latest)** ou dans le salon **télécharger** du Discord (c'est le même fichier) ; pour Mac et Linux, dans le salon **télécharger** du Discord.
-3. **Ouvre Bouftou et connecte-toi avec ton compte Discord** : ton accès bêta s'active tout seul. Puis connecte-toi à ton compte Ankama comme d'habitude.
-
-<a id="installation"></a>
 
 ## 💻 Installation et premier lancement
 
@@ -131,9 +122,6 @@ Si l'empreinte affichée est différente, ne lance pas le fichier et préviens-n
 
 **C'est un serveur privé ?**
 Non. Tu joues au vrai Dofus Touch, sur les serveurs officiels d'Ankama, avec ton compte et tes personnages habituels. Bouftou est le logiciel qui fait tourner le jeu sur ton PC.
-
-**C'est gratuit ?**
-Pendant la bêta ouverte, jusqu'au samedi 28 novembre 17 h, oui. Ensuite, une licence Bouftou à vie est proposée dans la boutique du Discord.
 
 **Sur quel système ?**
 Windows 10 et 11 (64 bits), macOS 12 ou plus récent (puce Apple ou Intel) et Linux 64 bits (AppImage). Voir [Installation](#installation).
