@@ -17,7 +17,7 @@
 [![macOS](https://img.shields.io/badge/macOS-Apple%20Silicon%20%7C%20Intel-000000?style=for-the-badge&logo=apple&logoColor=white)](#installation)
 [![Linux](https://img.shields.io/badge/Linux-AppImage%20x64-FCC624?style=for-the-badge&logo=linux&logoColor=black)](#installation)
 
-**[📥 Télécharger pour Windows](https://github.com/Wayomingg/Bouftou-Dofus-Touch-PC/releases/latest)** · **[🍎 Mac et 🐧 Linux](#installation)** · **[🛡️ Rapport VirusTotal](https://www.virustotal.com/gui/file/56af4d0def350b92aa2c51846ac04bf842f1a96ed3c5344861cb715e6e73c13d)**
+**[📥 Télécharger pour Windows](https://github.com/Wayomingg/Bouftou-Dofus-Touch-PC/releases/latest)** · **[🍎 Mac et 🐧 Linux](#installation)** · **[🛡️ Rapport VirusTotal](https://www.virustotal.com/gui/file/85ff92a75d3a203a8f553a72fd59d0b4a7d3da4aa5dea77ee1f63cf09e1f0cea)**
 
 </div>
 
@@ -47,8 +47,8 @@
 ## 📸 En images
 
 <p align="center">
-  <img src="images/carrousel.webp" width="100%" alt="Bouftou en images : chargement, en jeu, Stuffer, Guides des donjons, Skinator et lanceur">
-  <br><em>Bouftou en un coup d'œil : le chargement, le jeu, le Stuffer, les Guides des donjons, le Skinator et le lanceur.</em>
+  <img src="images/carrousel.webp" width="100%" alt="Bouftou en images : chargement, en jeu, Stuffer, Encyclopédie, zones rentables, Guides des donjons, Skinator et lanceur">
+  <br><em>Bouftou en un coup d'œil : le chargement, le jeu, le Stuffer, l'Encyclopédie, les zones rentables, les Guides des donjons, le Skinator et le lanceur.</em>
 </p>
 
 <table>
@@ -58,6 +58,10 @@
   </tr>
   <tr>
     <td width="50%"><img src="images/stuffer.jpg" alt="Stuffer"><br><sub><b>🛡️ Stuffer</b> : ton stuff, ses panoplies et toutes tes caractéristiques, sans quitter le jeu.</sub></td>
+    <td width="50%"><img src="images/encyclopedie.jpg" alt="Encyclopédie"><br><sub><b>📖 Encyclopédie</b> : tous les objets du jeu, leurs effets, leur prix à l'HDV, le craft et le brisage rentables.</sub></td>
+  </tr>
+  <tr>
+    <td width="50%"><img src="images/zones.jpg" alt="Zones rentables"><br><sub><b>🗺️ Zones rentables</b> : les zones de farm classées en kamas par monstre, avec leurs drops les plus rentables.</sub></td>
     <td width="50%"><img src="images/skinator.jpg" alt="Skinator"><br><sub><b>✨ Skinator</b> : la cabine d'essayage des apparats, directement sur ton personnage.</sub></td>
   </tr>
   <tr>
