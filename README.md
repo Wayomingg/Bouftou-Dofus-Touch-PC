@@ -17,8 +17,6 @@
 [![macOS](https://img.shields.io/badge/macOS-Apple%20Silicon%20%7C%20Intel-000000?style=for-the-badge&logo=apple&logoColor=white)](#installation)
 [![Linux](https://img.shields.io/badge/Linux-AppImage%20x64-FCC624?style=for-the-badge&logo=linux&logoColor=black)](#installation)
 
-### 🧪 Bêta ouverte jusqu'au samedi 28 novembre 17 h
-
 **[📥 Télécharger pour Windows](https://github.com/Wayomingg/Bouftou-Dofus-Touch-PC/releases/latest)** · **[🍎 Mac et 🐧 Linux](#installation)** · **[🛡️ Rapport VirusTotal](https://www.virustotal.com/gui/file/56af4d0def350b92aa2c51846ac04bf842f1a96ed3c5344861cb715e6e73c13d)**
 
 </div>
