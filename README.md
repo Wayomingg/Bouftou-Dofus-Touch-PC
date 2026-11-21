@@ -89,6 +89,7 @@ Lindo a permis à des milliers de joueurs de jouer à Dofus Touch sur PC, mais a
 
 Ce que Bouftou envoie à ses propres serveurs, et rien d'autre : ton compte Discord pour vérifier ton accès, les jeux ouverts et la version de Bouftou pendant que tu joues, et un rapport de bug seulement si tu choisis d'en envoyer un.
 
+<a id="installation"></a>
 
 ## 💻 Installation et premier lancement
 
