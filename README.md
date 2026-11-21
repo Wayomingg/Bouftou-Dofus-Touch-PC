@@ -6,18 +6,21 @@
 
 **Le client PC ultime pour Dofus Touch.** Fini l'émulateur : avec Bouftou, Dofus Touch se joue comme un vrai jeu PC, avec un comportement natif optimisé de bout en bout.
 
-<sub>🇬🇧 *Play Dofus Touch on PC without an emulator: a French-language Windows client with smart forgemagic, autopilot, gear builder, market tools and multi-account tabs. Open beta from November 14 to 21.*</sub>
+<sub>🇬🇧 *Play Dofus Touch on PC without an emulator: a French-language client for Windows, macOS and Linux with smart forgemagic, autopilot, gear builder, dungeon guides, market tools and multi-account tabs. Open beta until November 28.*</sub>
 
 [![Discord](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fdiscord.com%2Fapi%2Fv10%2Finvites%2FG65tcyqhTW%3Fwith_counts%3Dtrue&query=%24.approximate_member_count&label=Discord&suffix=%20membres&logo=discord&logoColor=white&color=5865F2&style=for-the-badge)](https://discord.gg/G65tcyqhTW)
-[![Bêta ouverte](https://img.shields.io/badge/b%C3%AAta%20ouverte-14%20%E2%86%92%2021%20novembre-b9e154?style=for-the-badge)](#beta)
+[![Bêta ouverte](https://img.shields.io/badge/b%C3%AAta%20ouverte-jusqu%27au%2028%20novembre-b9e154?style=for-the-badge)](#beta)
 [![Version](https://img.shields.io/github/v/release/Wayomingg/Bouftou-Dofus-Touch-PC?label=version&color=cdb57e&style=for-the-badge)](https://github.com/Wayomingg/Bouftou-Dofus-Touch-PC/releases/latest)
 [![Téléchargements](https://img.shields.io/github/downloads/Wayomingg/Bouftou-Dofus-Touch-PC/total?label=t%C3%A9l%C3%A9chargements&color=b9e154&style=for-the-badge)](https://github.com/Wayomingg/Bouftou-Dofus-Touch-PC/releases/latest)
-[![Windows](https://img.shields.io/badge/Windows-10%20%7C%2011-0078D4?style=for-the-badge&logo=windows&logoColor=white)](#windows)
 [![Langue](https://img.shields.io/badge/langue-fran%C3%A7ais-cdb57e?style=for-the-badge)](#faq)
 
-### 🧪 Bêta ouverte du samedi 14 novembre 17 h au samedi 21 novembre 17 h
+[![Windows](https://img.shields.io/badge/Windows-10%20%7C%2011-0078D4?style=for-the-badge&logo=windows&logoColor=white)](#installation)
+[![macOS](https://img.shields.io/badge/macOS-Apple%20Silicon%20%7C%20Intel-000000?style=for-the-badge&logo=apple&logoColor=white)](#installation)
+[![Linux](https://img.shields.io/badge/Linux-AppImage%20x64-FCC624?style=for-the-badge&logo=linux&logoColor=black)](#installation)
 
-**[📥 Télécharger Bouftou](https://github.com/Wayomingg/Bouftou-Dofus-Touch-PC/releases/latest)** · **[🛡️ Rapport VirusTotal](https://www.virustotal.com/gui/file/56af4d0def350b92aa2c51846ac04bf842f1a96ed3c5344861cb715e6e73c13d)**
+### 🧪 Bêta ouverte jusqu'au samedi 28 novembre 17 h
+
+**[📥 Télécharger pour Windows](https://github.com/Wayomingg/Bouftou-Dofus-Touch-PC/releases/latest)** · **[🍎 Mac et 🐧 Linux](#installation)** · **[🛡️ Rapport VirusTotal](https://www.virustotal.com/gui/file/56af4d0def350b92aa2c51846ac04bf842f1a96ed3c5344861cb715e6e73c13d)**
 
 </div>
 
@@ -40,19 +43,31 @@
 - **🗺️ Zones rentables** : les meilleures zones de farm classées en kamas, au prix de ton serveur
 - **💰 Hôtel de vente** : les prix de ton serveur suivis en continu, où investir, tes lots dépassés
 - **📅 Almanax** : l'offrande du jour, le calendrier et ta liste de courses
-- **🖥️ Une interface pensée pour le PC** : tous tes comptes en onglets, écran partagé, tout à la souris
+- **📚 Guides des donjons** : tous les donjons du jeu, la stratégie de chaque boss, ses sorts, ses résistances, l'accès et les butins
+- **✨ Skinator** : essaie chapeaux, capes, boucliers, familiers et couleurs sur ton personnage, et garde tes tenues préférées
+- **🖥️ Une interface pensée pour l'ordinateur** : tous tes comptes en onglets, écran partagé, tout à la souris, sur Windows, Mac et Linux
 
 ## 📸 En images
 
 <p align="center">
-  <img src="images/lanceur.jpg" width="100%" alt="Le lanceur de Bouftou">
-  <br><em>Le lanceur : tes jeux, tes personnages et toutes les fonctionnalités, avant même d'entrer en jeu.</em>
+  <img src="images/carrousel.webp" width="100%" alt="Bouftou en images : chargement, en jeu, Stuffer, Guides des donjons, Skinator et lanceur">
+  <br><em>Bouftou en un coup d'œil : le chargement, le jeu, le Stuffer, les Guides des donjons, le Skinator et le lanceur.</em>
 </p>
 
-<p align="center">
-  <img src="images/en-jeu.jpg" width="100%" alt="Dofus Touch dans Bouftou">
-  <br><em>En jeu : un onglet par personnage, les outils de Bouftou à gauche et la mini-carte dans la bulle de position.</em>
-</p>
+<table>
+  <tr>
+    <td width="50%"><img src="images/guides.jpg" alt="Guides des donjons"><br><sub><b>📚 Guides des donjons</b> : tous les donjons, classés par niveau, avec leur boss.</sub></td>
+    <td width="50%"><img src="images/guides-fiche.jpg" alt="Fiche d'un boss"><br><sub><b>🐉 Fiche d'un boss</b> : stratégie pas à pas, caractéristiques, résistances, sorts et butins.</sub></td>
+  </tr>
+  <tr>
+    <td width="50%"><img src="images/stuffer.jpg" alt="Stuffer"><br><sub><b>🛡️ Stuffer</b> : ton stuff, ses panoplies et toutes tes caractéristiques, sans quitter le jeu.</sub></td>
+    <td width="50%"><img src="images/skinator.jpg" alt="Skinator"><br><sub><b>✨ Skinator</b> : la cabine d'essayage des apparats, directement sur ton personnage.</sub></td>
+  </tr>
+  <tr>
+    <td width="50%"><img src="images/lanceur.jpg" alt="Le lanceur de Bouftou"><br><sub><b>🚀 Le lanceur</b> : tes jeux, tes personnages et toutes les fonctionnalités avant d'entrer en jeu.</sub></td>
+    <td width="50%"><img src="images/en-jeu.jpg" alt="Dofus Touch dans Bouftou"><br><sub><b>🎮 En jeu</b> : un onglet par personnage, les outils de Bouftou à gauche, la mini-carte.</sub></td>
+  </tr>
+</table>
 
 <p align="center">
   <img src="images/1-forgemagie.jpg" width="49%" alt="Forgemagie intelligente">
@@ -82,14 +97,28 @@ Ce que Bouftou envoie à ses propres serveurs, et rien d'autre : ton compte Disc
 ## 🚀 Participer à la bêta
 
 1. **Rejoins le [Discord](https://discord.gg/G65tcyqhTW)** et clique sur **« Rejoindre la bêta test »** dans le salon bêta-test.
-2. **Télécharge Bouftou** dans la **[dernière version de ce dépôt](https://github.com/Wayomingg/Bouftou-Dofus-Touch-PC/releases/latest)** ou dans le salon **télécharger** du Discord : c'est le même fichier.
+2. **Télécharge Bouftou** : pour Windows, dans la **[dernière version de ce dépôt](https://github.com/Wayomingg/Bouftou-Dofus-Touch-PC/releases/latest)** ou dans le salon **télécharger** du Discord (c'est le même fichier) ; pour Mac et Linux, dans le salon **télécharger** du Discord.
 3. **Ouvre Bouftou et connecte-toi avec ton compte Discord** : ton accès bêta s'active tout seul. Puis connecte-toi à ton compte Ankama comme d'habitude.
+
+<a id="installation"></a>
+
+## 💻 Installation et premier lancement
+
+| | Système | Fichier | Où le trouver |
+|---|---|---|---|
+| 🪟 | **Windows** 10 et 11 (64 bits) | `Installer-Bouftou.exe` | [Releases](https://github.com/Wayomingg/Bouftou-Dofus-Touch-PC/releases/latest) ou salon **télécharger** du Discord |
+| 🍎 | **macOS** 12 ou plus récent, puce Apple ou Intel | `.dmg` | Salon **télécharger** du [Discord](https://discord.gg/G65tcyqhTW) |
+| 🐧 | **Linux** 64 bits | `.AppImage` | Salon **télécharger** du [Discord](https://discord.gg/G65tcyqhTW) |
+
+Bouftou se met ensuite à jour tout seul, sur les trois systèmes.
 
 <a id="windows"></a>
 
-## 🛡️ Premier lancement : avertissement de Windows
+**🪟 Windows.** Bouftou n'a pas encore de certificat de signature, un abonnement payant que peu de projets indépendants peuvent s'offrir. Au premier lancement, Windows peut donc afficher **« Windows a protégé votre ordinateur »** : clique sur **Informations complémentaires**, puis sur **Exécuter quand même**. C'est normal pour un logiciel indépendant non signé.
 
-Bouftou n'a pas encore de certificat de signature, un abonnement payant que peu de projets indépendants peuvent s'offrir. Au premier lancement, Windows peut donc afficher **« Windows a protégé votre ordinateur »** : clique sur **Informations complémentaires**, puis sur **Exécuter quand même**. C'est normal pour un logiciel indépendant non signé.
+**🍎 Mac.** Ouvre le `.dmg` et glisse Bouftou sur **Applications**. À la première ouverture, macOS indique qu'il ne peut pas vérifier Bouftou : va dans **Réglages Système › Confidentialité et sécurité**, puis clique sur **Ouvrir quand même**.
+
+**🐧 Linux.** Range le fichier `.AppImage` dans un dossier à toi (par exemple `~/Applications`), rends-le exécutable (`chmod +x Bouftou-*.AppImage`, ou clic droit › **Propriétés › Exécutable**), puis lance-le. Sur Ubuntu 22.04 et plus récent, `libfuse2` peut être nécessaire.
 
 **Vérifier ton téléchargement** : l'empreinte SHA-256 de chaque installateur officiel et son **rapport VirusTotal** sont publiés dans la note de sa [version](https://github.com/Wayomingg/Bouftou-Dofus-Touch-PC/releases). Pour comparer l'empreinte, ouvre PowerShell dans le dossier du fichier :
 
@@ -107,10 +136,10 @@ Si l'empreinte affichée est différente, ne lance pas le fichier et préviens-n
 Non. Tu joues au vrai Dofus Touch, sur les serveurs officiels d'Ankama, avec ton compte et tes personnages habituels. Bouftou est le logiciel qui fait tourner le jeu sur ton PC.
 
 **C'est gratuit ?**
-Pendant les 7 jours de la bêta ouverte, oui. Ensuite, une licence Bouftou à vie est proposée dans la boutique du Discord.
+Pendant la bêta ouverte, jusqu'au samedi 28 novembre 17 h, oui. Ensuite, une licence Bouftou à vie est proposée dans la boutique du Discord.
 
 **Sur quel système ?**
-Windows 10 et 11 (64 bits).
+Windows 10 et 11 (64 bits), macOS 12 ou plus récent (puce Apple ou Intel) et Linux 64 bits (AppImage). Voir [Installation](#installation).
 
 **Et mon compte Ankama ?**
 Tu te connectes à ton compte Ankama comme d'habitude. Ne donne jamais ton mot de passe ni ton code Shield à personne, même à quelqu'un qui se présente comme l'équipe Bouftou.
