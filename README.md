@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="images/banniere.jpg" alt="Bouftou" width="100%">
+<img src="images/banniere.jpg" alt="Bouftou, Dofus Touch sur PC, Mac et Linux sans émulateur" width="100%">
 
-# 🐑 Bouftou — Dofus Touch sur PC, sans émulateur
+# 🐑 Bouftou — Dofus Touch sur PC, Mac et Linux, sans émulateur
 
-**Le client PC ultime pour Dofus Touch.** Fini l'émulateur : avec Bouftou, Dofus Touch se joue comme un vrai jeu PC, avec un comportement natif optimisé de bout en bout.
+**Le client ultime pour jouer à Dofus Touch sur PC, Mac et Linux.** Fini l'émulateur Android (BlueStacks, LDPlayer…) : avec Bouftou, Dofus Touch se joue comme un vrai jeu d'ordinateur, sur les serveurs officiels d'Ankama, avec un comportement natif optimisé de bout en bout.
 
 <sub>🇬🇧 *Play Dofus Touch on PC without an emulator: a French-language client for Windows, macOS and Linux with smart forgemagic, autopilot, gear builder, dungeon guides, market tools and multi-account tabs.*</sub>
 
@@ -120,6 +120,16 @@ Get-FileHash .\Installer-Bouftou.exe -Algorithm SHA256
 ```
 
 Si l'empreinte affichée est différente, ne lance pas le fichier et préviens-nous sur le Discord.
+
+<a id="english"></a>
+
+## 🇬🇧 In English
+
+**Bouftou lets you play Dofus Touch on PC (Windows), Mac and Linux without an Android emulator** such as BlueStacks or LDPlayer. You play the real Dofus Touch on Ankama's official servers, with your usual account and characters: Bouftou downloads the game files from Ankama, adapts them to a desktop window and turns your mouse clicks into touches.
+
+On top of the game, Bouftou adds smart forgemagic, an autopilot, a DofusBook-style gear builder (Stuffer), dungeon guides for every boss, a full item encyclopedia, profitable farming zones, market (HDV) tracking, the Almanax, a cosmetics fitting room (Skinator) and multi-account tabs with split screen. A modern alternative to Lindo.
+
+Bouftou is in French for now. Windows installer in the [Releases](https://github.com/Wayomingg/Bouftou-Dofus-Touch-PC/releases/latest); Mac (`.dmg`) and Linux (`.AppImage`) in the **télécharger** channel of the [Discord](https://discord.gg/G65tcyqhTW).
 
 <a id="faq"></a>
 
