@@ -23,7 +23,7 @@
 [![macOS](https://img.shields.io/badge/macOS-Apple%20Silicon%20%7C%20Intel-000000?style=for-the-badge&logo=apple&logoColor=white)](#installation)
 [![Linux](https://img.shields.io/badge/Linux-AppImage%20x64-FCC624?style=for-the-badge&logo=linux&logoColor=black)](#installation)
 
-**[📥 Télécharger pour Windows](https://github.com/Wayomingg/Bouftou-Dofus-Touch-PC/releases/latest)** · **[🍎 Mac et 🐧 Linux](#installation)** · **[🛡️ Rapport VirusTotal](https://www.virustotal.com/gui/file/f6027876ea00d125dee166bda951675b7d323c9dd6476cb3a44f91986e1f18c4)**
+**[📥 Télécharger pour Windows](https://github.com/Wayomingg/Bouftou-Dofus-Touch-PC/releases/latest)** · **[🍎 Mac et 🐧 Linux](#installation)** · **[🛡️ Vérifier sur VirusTotal](https://www.virustotal.com/gui/file/e9cdc8bfbda03f64e4e89b297922e2212fe767174a6471848b89203f630c7715)**
 
 </div>
 
@@ -122,7 +122,7 @@ Bouftou se met ensuite à jour tout seul, sur les trois systèmes.
 
 **🐧 Linux.** Range le fichier `.AppImage` dans un dossier à toi (par exemple `~/Applications`), rends-le exécutable (`chmod +x Bouftou-*.AppImage`, ou clic droit › **Propriétés › Exécutable**), puis lance-le. Sur Ubuntu 22.04 et plus récent, `libfuse2` peut être nécessaire.
 
-**Vérifier ton téléchargement** : l'empreinte SHA-256 de chaque installateur officiel et son **rapport VirusTotal** sont publiés dans la note de sa [version](https://github.com/Wayomingg/Bouftou-Dofus-Touch-PC/releases). Pour comparer l'empreinte, ouvre PowerShell dans le dossier du fichier :
+**Vérifier ton téléchargement** : l'empreinte SHA-256 et le lien de vérification VirusTotal de l'installateur Windows sont indiqués dans les notes de sa [version](https://github.com/Wayomingg/Bouftou-Dofus-Touch-PC/releases). Pour comparer l'empreinte, ouvre PowerShell dans le dossier du fichier :
 
 ```powershell
 Get-FileHash .\Installer-Bouftou.exe -Algorithm SHA256
@@ -148,7 +148,7 @@ Si l'empreinte affichée est différente, ne lance pas le fichier et préviens-n
 - **Mercadillo:** sigue la evolución de precios, tus compras y tus ventas, y detecta ofertas más baratas que las tuyas.
 - **Zonas rentables:** compara zonas según sus recursos, los precios de tu servidor y tu prospección.
 - **Guías de mazmorras:** consulta jefes, hechizos, resistencias, acceso y botines, con **97 estrategias en español**.
-- **Almanax:** revisa la ofrenda del día y el calendario, con un asistente para realizar la ofrenda.
+- **Almanax:** revisa la ofrenda del día y el calendario, y prepara los recursos con la lista de compras. La ofrenda automática está desactivada temporalmente.
 - **Inventario compartido y mensajería:** consulta los objetos de tu grupo y responde a los mensajes privados de tus personajes desde paneles comunes.
 - **Asistente del Conde Kontatrás:** encuentra la casilla a la que debes apuntar durante la confusión.
 
