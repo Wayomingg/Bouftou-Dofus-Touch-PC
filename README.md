@@ -2,16 +2,22 @@
 
 <img src="images/banniere.jpg" alt="Bouftou, Dofus Touch sur PC, Mac et Linux sans émulateur" width="100%">
 
+<a id="francais"></a>
+
 # 🐑 Bouftou — Dofus Touch sur PC, Mac et Linux, sans émulateur
 
-**Le client ultime pour jouer à Dofus Touch sur PC, Mac et Linux.** Fini l'émulateur Android (BlueStacks, LDPlayer…) : avec Bouftou, Dofus Touch se joue comme un vrai jeu d'ordinateur, sur les serveurs officiels d'Ankama, avec un comportement natif optimisé de bout en bout.
+**Joue à Dofus Touch sur PC Windows, Mac et Linux, sans émulateur Android, en français ou en espagnol.** Bouftou adapte le jeu à la souris et au clavier, avec des outils intégrés pour tes équipements, tes déplacements, tes combats et tes comptes. Tu retrouves les serveurs officiels d'Ankama et tes personnages habituels.
 
-<sub>🇬🇧 *Play Dofus Touch on PC without an emulator: a French-language client for Windows, macOS and Linux with smart forgemagic, autopilot, gear builder, dungeon guides, market tools and multi-account tabs.*</sub>
+**🇫🇷 [Présentation française](#francais) · 🇪🇸 [Presentación en español](#espanol) · 🇬🇧 [English overview](#english)**
+
+<sub>🇪🇸 Juega Dofus Touch en PC, Mac y Linux sin emulador: Bouftou ya está disponible en español.</sub><br>
+<sub>🇬🇧 Play Dofus Touch on Windows, macOS and Linux without an Android emulator. Interface available in French and Spanish.</sub>
 
 [![Discord](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fdiscord.com%2Fapi%2Fv10%2Finvites%2FG65tcyqhTW%3Fwith_counts%3Dtrue&query=%24.approximate_member_count&label=Discord&suffix=%20membres&logo=discord&logoColor=white&color=5865F2&style=for-the-badge)](https://discord.gg/G65tcyqhTW)
 [![Version](https://img.shields.io/github/v/release/Wayomingg/Bouftou-Dofus-Touch-PC?label=version&color=cdb57e&style=for-the-badge)](https://github.com/Wayomingg/Bouftou-Dofus-Touch-PC/releases/latest)
 [![Téléchargements](https://img.shields.io/github/downloads/Wayomingg/Bouftou-Dofus-Touch-PC/total?label=t%C3%A9l%C3%A9chargements&color=b9e154&style=for-the-badge)](https://github.com/Wayomingg/Bouftou-Dofus-Touch-PC/releases/latest)
-[![Langue](https://img.shields.io/badge/langue-fran%C3%A7ais-cdb57e?style=for-the-badge)](#faq)
+[![Français](https://img.shields.io/badge/Langue-Fran%C3%A7ais-cdb57e?style=for-the-badge)](#francais)
+[![Español](https://img.shields.io/badge/Idioma-Espa%C3%B1ol-b9e154?style=for-the-badge)](#espanol)
 
 [![Windows](https://img.shields.io/badge/Windows-10%20%7C%2011-0078D4?style=for-the-badge&logo=windows&logoColor=white)](#installation)
 [![macOS](https://img.shields.io/badge/macOS-Apple%20Silicon%20%7C%20Intel-000000?style=for-the-badge&logo=apple&logoColor=white)](#installation)
@@ -31,6 +37,7 @@
 
 ## ✨ Ce qui t'attend
 
+- **🇫🇷 Français et 🇪🇸 espagnol** : lanceur, interface et outils de Dofus Touch traduits ; change de langue depuis le drapeau dans la barre de gauche ou les Paramètres
 - **+50 améliorations de confort** : tout au survol, raccourcis clavier, combats accélérés, états et barres de vie au-dessus des combattants… fini l'appui long
 - **🔨 Forgemagie intelligente** : fixe le jet que tu veux, Bouftou choisit et pose les runes pour toi
 - **🧭 Pilote automatique** : choisis ta destination, ton personnage y va tout seul, zaaps et transports compris
@@ -40,9 +47,11 @@
 - **🗺️ Zones rentables** : les meilleures zones de farm classées en kamas, au prix de ton serveur
 - **💰 Hôtel de vente** : les prix de ton serveur suivis en continu, où investir, tes lots dépassés
 - **📅 Almanax** : l'offrande du jour, le calendrier et ta liste de courses
-- **📚 Guides des donjons** : tous les donjons du jeu, la stratégie de chaque boss, ses sorts, ses résistances, l'accès et les butins
+- **📚 Guides des donjons** : fiches des boss, sorts, résistances, accès et butins, avec **97 stratégies disponibles en espagnol**
 - **✨ Skinator** : essaie chapeaux, capes, boucliers, familiers et couleurs sur ton personnage, et garde tes tenues préférées
 - **🖥️ Une interface pensée pour l'ordinateur** : tous tes comptes en onglets, écran partagé, tout à la souris, sur Windows, Mac et Linux
+- **🎒 Inventaire partagé** : consulte les objets, kamas et pods des personnages de ton groupe depuis un seul panneau
+- **💬 Messagerie unifiée** : lis et réponds aux messages privés de tes personnages sans changer d'onglet
 
 ## 📸 En images
 
@@ -82,7 +91,7 @@
 
 ## 🔁 Tu jouais sur Lindo ?
 
-Lindo a permis à des milliers de joueurs de jouer à Dofus Touch sur PC, mais aucune nouvelle version n'est sortie depuis 2022. Bouftou repart du même principe, le jeu d'Ankama dans une vraie fenêtre PC sans émulateur, et va beaucoup plus loin : forgemagie intelligente, pilote automatique, Stuffer, encyclopédie, zones rentables, hôtel de vente, Almanax… Le tout dans un client suivi de près, avec un Discord pour remonter tes bugs et tes idées.
+Tu cherches une alternative à Lindo ou aux émulateurs Android comme BlueStacks et LDPlayer pour jouer à Dofus Touch sur ordinateur ? Bouftou propose le jeu d'Ankama dans une fenêtre PC sans émulateur, avec forgemagie intelligente, pilote automatique, Stuffer, encyclopédie, zones rentables, hôtel de vente et Almanax. Le client se met à jour automatiquement et la communauté Discord accueille tes bugs et tes suggestions, en français et en espagnol.
 
 ## 🔍 Comment ça marche, sans zone d'ombre
 
@@ -121,6 +130,59 @@ Get-FileHash .\Installer-Bouftou.exe -Algorithm SHA256
 
 Si l'empreinte affichée est différente, ne lance pas le fichier et préviens-nous sur le Discord.
 
+<a id="espanol"></a>
+
+## 🇪🇸 Dofus Touch en PC sin emulador — Bouftou en español
+
+**Bouftou ya está disponible en español para Windows, macOS y Linux.** Juega a Dofus Touch en tu computadora con mouse y teclado, sin instalar un emulador Android como BlueStacks o LDPlayer. Puedes usar tu cuenta Ankama y tus personajes habituales en los servidores oficiales: **no es un servidor privado**.
+
+### Herramientas y funciones
+
+- **Multicuenta y pantalla dividida:** organiza tus cuentas en pestañas o muéstralas juntas. En combate, cambia automáticamente al personaje al que le toca jugar.
+- **Combates más cómodos:** animaciones ×2 y ×3, atajos personalizables, alcance de los hechizos, zonas de efecto y vista previa de los daños.
+- **Piloto automático:** elige tu destino, configura los transportes permitidos, guarda favoritos y lleva a tu grupo.
+- **Forjamagia inteligente:** define los objetivos de tu equipo y el asistente elige y coloca las runas. También prepara las runas que necesitas retirar del banco.
+- **Stuffer, simulador de equipos:** compara sets, características y daños de tus hechizos; usa el optimizador para buscar una combinación de equipos.
+- **Skinator:** prueba objetos de apariencia y colores sobre tu personaje, y guarda tus conjuntos favoritos.
+- **Enciclopedia:** consulta objetos, sets, recetas, recursos y herramientas para encontrar crafteos y roturas rentables.
+- **Mercadillo:** sigue la evolución de precios, tus compras y tus ventas, y detecta ofertas más baratas que las tuyas.
+- **Zonas rentables:** compara zonas según sus recursos, los precios de tu servidor y tu prospección.
+- **Guías de mazmorras:** consulta jefes, hechizos, resistencias, acceso y botines, con **97 estrategias en español**.
+- **Almanax:** revisa la ofrenda del día y el calendario, con un asistente para realizar la ofrenda.
+- **Inventario compartido y mensajería:** consulta los objetos de tu grupo y responde a los mensajes privados de tus personajes desde paneles comunes.
+- **Asistente del Conde Kontatrás:** encuentra la casilla a la que debes apuntar durante la confusión.
+
+### Descargar e instalar Bouftou
+
+| Sistema | Archivo | Descarga |
+|---|---|---|
+| **Windows 10 y 11, 64 bits** | `Installer-Bouftou.exe` | [Releases de GitHub](https://github.com/Wayomingg/Bouftou-Dofus-Touch-PC/releases/latest) o canal **descargar** de Discord |
+| **macOS 12 o posterior, Apple Silicon e Intel** | `.dmg` | Canal **descargar** de [Discord](https://discord.gg/G65tcyqhTW) |
+| **Linux, 64 bits** | `.AppImage` | Canal **descargar** de [Discord](https://discord.gg/G65tcyqhTW) |
+
+1. Descarga el archivo para tu sistema. En Mac, abre el `.dmg` y arrastra Bouftou a **Aplicaciones**; en Linux, dale permiso de ejecución al `.AppImage`.
+2. Abre el launcher e inicia sesión con tu cuenta Discord para verificar tu acceso a Dofus Touch.
+3. Elige **Español** en **Configuración › General** o desde la **bandera de la barra izquierda** del juego.
+4. Inicia Dofus Touch con tu cuenta Ankama habitual. Bouftou se actualiza automáticamente en los tres sistemas.
+
+Las capturas de esta página muestran la interfaz francesa. El launcher, los menús y las herramientas también están traducidos al español. El cliente está disponible en **francés y español**; el resumen en inglés de esta página no significa que la interfaz esté traducida al inglés.
+
+**La licencia de Bouftou se compra en la tienda de Discord.** Allí también puedes consultar los precios, las instrucciones de instalación y las huellas SHA-256 de las descargas. Si tu sistema muestra un aviso de seguridad al abrir el archivo, consulta las instrucciones del canal **descargar**.
+
+¿Tienes preguntas, encontraste un bug o quieres hacer una sugerencia? Tenemos espacios de ayuda y notas del parche en español en el **[Discord de Bouftou](https://discord.gg/G65tcyqhTW)**.
+
+### Preguntas frecuentes
+
+**¿Es un servidor privado?** No: juegas a Dofus Touch en los servidores oficiales de Ankama, con tu cuenta y tus personajes.
+
+**¿Necesito BlueStacks, LDPlayer o un emulador Android?** No. Bouftou descarga los archivos del juego desde Ankama y los adapta a una ventana de escritorio.
+
+**¿Puedo jugar con varias cuentas?** Sí, puedes organizarlas en pestañas o con pantalla dividida dentro de Bouftou.
+
+**¿Dónde veo las novedades?** En la pestaña de notas del parche del launcher y en el canal **notas-de-parche** de Discord.
+
+Bouftou es un proyecto independiente, no afiliado a Ankama. Dofus Touch es una marca de Ankama.
+
 <a id="english"></a>
 
 ## 🇬🇧 In English
@@ -129,7 +191,7 @@ Si l'empreinte affichée est différente, ne lance pas le fichier et préviens-n
 
 On top of the game, Bouftou adds smart forgemagic, an autopilot, a DofusBook-style gear builder (Stuffer), dungeon guides for every boss, a full item encyclopedia, profitable farming zones, market (HDV) tracking, the Almanax, a cosmetics fitting room (Skinator) and multi-account tabs with split screen. A modern alternative to Lindo.
 
-Bouftou is in French for now. Windows installer in the [Releases](https://github.com/Wayomingg/Bouftou-Dofus-Touch-PC/releases/latest); Mac (`.dmg`) and Linux (`.AppImage`) in the **télécharger** channel of the [Discord](https://discord.gg/G65tcyqhTW).
+The interface is available in **French and Spanish**. See the [Spanish presentation and installation guide](#espanol). Windows installer in the [Releases](https://github.com/Wayomingg/Bouftou-Dofus-Touch-PC/releases/latest); Mac (`.dmg`) and Linux (`.AppImage`) in the **télécharger / descargar** channels of the [Discord](https://discord.gg/G65tcyqhTW). A Bouftou license is purchased through the Discord store.
 
 <a id="faq"></a>
 
@@ -144,11 +206,11 @@ Windows 10 et 11 (64 bits), macOS 12 ou plus récent (puce Apple ou Intel) et Li
 **Et mon compte Ankama ?**
 Tu te connectes à ton compte Ankama comme d'habitude. Ne donne jamais ton mot de passe ni ton code Shield à personne, même à quelqu'un qui se présente comme l'équipe Bouftou.
 
-**Bouftou existe en anglais ?**
-Pas encore : Bouftou est en français pour l'instant.
+**Dans quelles langues Bouftou est-il disponible ?**
+En **français et en espagnol** : lanceur, interface et outils de Dofus Touch. Choisis ta langue dans **Paramètres › Général** ou avec le drapeau de la barre de gauche. L'interface n'est pas encore traduite en anglais.
 
-**Où signaler un bug ou proposer une idée ?**
-Dans Bouftou (**Paramètres › Bug ou idée**) ou sur le [Discord](https://discord.gg/G65tcyqhTW).
+**Où signaler un bug ou faire une suggestion ?**
+Dans Bouftou (**Paramètres › Bug ou suggestion**) ou sur le [Discord](https://discord.gg/G65tcyqhTW), qui dispose d'espaces français et espagnols.
 
 ---
 
