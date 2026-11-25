@@ -13,7 +13,7 @@
 <sub>🇪🇸 Juega Dofus Touch en PC, Mac y Linux sin emulador: Bouftou ya está disponible en español.</sub><br>
 <sub>🇬🇧 Play Dofus Touch on Windows, macOS and Linux without an Android emulator. Interface available in French and Spanish.</sub>
 
-[![Discord](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fdiscord.com%2Fapi%2Fv10%2Finvites%2FFvCvfg3us%3Fwith_counts%3Dtrue&query=%24.approximate_member_count&label=Discord&suffix=%20membres&logo=discord&logoColor=white&color=5865F2&style=for-the-badge)](https://discord.gg/FvCvfg3us)
+[![Discord](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fdiscord.com%2Fapi%2Fv10%2Finvites%2FEmYwPHEqZH%3Fwith_counts%3Dtrue&query=%24.approximate_member_count&label=Discord&suffix=%20membres&logo=discord&logoColor=white&color=5865F2&style=for-the-badge)](https://discord.gg/EmYwPHEqZH)
 [![Version](https://img.shields.io/github/v/release/Wayomingg/Bouftou-Dofus-Touch-PC?label=version&color=cdb57e&style=for-the-badge)](https://github.com/Wayomingg/Bouftou-Dofus-Touch-PC/releases/latest)
 [![Téléchargements](https://img.shields.io/github/downloads/Wayomingg/Bouftou-Dofus-Touch-PC/total?label=t%C3%A9l%C3%A9chargements&color=b9e154&style=for-the-badge)](https://github.com/Wayomingg/Bouftou-Dofus-Touch-PC/releases/latest)
 [![Français](https://img.shields.io/badge/Langue-Fran%C3%A7ais-cdb57e?style=for-the-badge)](#francais)
@@ -31,7 +31,7 @@
 > **Bouftou n'est pas un serveur privé.** C'est un logiciel pour jouer au vrai Dofus Touch sur PC : tu joues sur les **serveurs officiels d'Ankama**, avec ton compte et tes personnages habituels. Ta progression est la même que sur ton téléphone.
 
 > [!IMPORTANT]
-> **Méfie-toi des copies.** Les seuls endroits officiels de Bouftou sont **ce dépôt** et le **[Discord de Bouftou](https://discord.gg/FvCvfg3us)**. Ne télécharge jamais Bouftou ailleurs, et ne donne jamais ton mot de passe Ankama ni ton code Shield à personne.
+> **Méfie-toi des copies.** Les seuls endroits officiels de Bouftou sont **ce dépôt** et le **[Discord de Bouftou](https://discord.gg/EmYwPHEqZH)**. Ne télécharge jamais Bouftou ailleurs, et ne donne jamais ton mot de passe Ankama ni ton code Shield à personne.
 
 ---
 
@@ -109,8 +109,8 @@ Ce que Bouftou envoie à ses propres serveurs, et rien d'autre : ton compte Disc
 | | Système | Fichier | Où le trouver |
 |---|---|---|---|
 | 🪟 | **Windows** 10 et 11 (64 bits) | `Installer-Bouftou.exe` | [Releases](https://github.com/Wayomingg/Bouftou-Dofus-Touch-PC/releases/latest) ou salon **télécharger** du Discord |
-| 🍎 | **macOS** 12 ou plus récent, puce Apple ou Intel | `.dmg` | Salon **télécharger** du [Discord](https://discord.gg/FvCvfg3us) |
-| 🐧 | **Linux** 64 bits | `.AppImage` | Salon **télécharger** du [Discord](https://discord.gg/FvCvfg3us) |
+| 🍎 | **macOS** 12 ou plus récent, puce Apple ou Intel | `.dmg` | Salon **télécharger** du [Discord](https://discord.gg/EmYwPHEqZH) |
+| 🐧 | **Linux** 64 bits | `.AppImage` | Salon **télécharger** du [Discord](https://discord.gg/EmYwPHEqZH) |
 
 Bouftou se met ensuite à jour tout seul, sur les trois systèmes.
 
@@ -157,8 +157,8 @@ Si l'empreinte affichée est différente, ne lance pas le fichier et préviens-n
 | Sistema | Archivo | Descarga |
 |---|---|---|
 | **Windows 10 y 11, 64 bits** | `Installer-Bouftou.exe` | [Releases de GitHub](https://github.com/Wayomingg/Bouftou-Dofus-Touch-PC/releases/latest) o canal **descargar** de Discord |
-| **macOS 12 o posterior, Apple Silicon e Intel** | `.dmg` | Canal **descargar** de [Discord](https://discord.gg/FvCvfg3us) |
-| **Linux, 64 bits** | `.AppImage` | Canal **descargar** de [Discord](https://discord.gg/FvCvfg3us) |
+| **macOS 12 o posterior, Apple Silicon e Intel** | `.dmg` | Canal **descargar** de [Discord](https://discord.gg/EmYwPHEqZH) |
+| **Linux, 64 bits** | `.AppImage` | Canal **descargar** de [Discord](https://discord.gg/EmYwPHEqZH) |
 
 1. Descarga el archivo para tu sistema. En Mac, abre el `.dmg` y arrastra Bouftou a **Aplicaciones**; en Linux, dale permiso de ejecución al `.AppImage`.
 2. Abre el launcher e inicia sesión con tu cuenta Discord para verificar tu acceso a Dofus Touch.
@@ -169,7 +169,7 @@ Las capturas de esta página muestran la interfaz francesa. El launcher, los men
 
 **La licencia de Bouftou se compra en la tienda de Discord.** Allí también puedes consultar los precios, las instrucciones de instalación y las huellas SHA-256 de las descargas. Si tu sistema muestra un aviso de seguridad al abrir el archivo, consulta las instrucciones del canal **descargar**.
 
-¿Tienes preguntas, encontraste un bug o quieres hacer una sugerencia? Tenemos espacios de ayuda y notas del parche en español en el **[Discord de Bouftou](https://discord.gg/FvCvfg3us)**.
+¿Tienes preguntas, encontraste un bug o quieres hacer una sugerencia? Tenemos espacios de ayuda y notas del parche en español en el **[Discord de Bouftou](https://discord.gg/EmYwPHEqZH)**.
 
 ### Preguntas frecuentes
 
@@ -191,7 +191,7 @@ Bouftou es un proyecto independiente, no afiliado a Ankama. Dofus Touch es una m
 
 On top of the game, Bouftou adds smart forgemagic, an autopilot, a DofusBook-style gear builder (Stuffer), dungeon guides for every boss, a full item encyclopedia, profitable farming zones, market (HDV) tracking, the Almanax, a cosmetics fitting room (Skinator) and multi-account tabs with split screen. A modern alternative to Lindo.
 
-The interface is available in **French and Spanish**. See the [Spanish presentation and installation guide](#espanol). Windows installer in the [Releases](https://github.com/Wayomingg/Bouftou-Dofus-Touch-PC/releases/latest); Mac (`.dmg`) and Linux (`.AppImage`) in the **télécharger / descargar** channels of the [Discord](https://discord.gg/FvCvfg3us). A Bouftou license is purchased through the Discord store.
+The interface is available in **French and Spanish**. See the [Spanish presentation and installation guide](#espanol). Windows installer in the [Releases](https://github.com/Wayomingg/Bouftou-Dofus-Touch-PC/releases/latest); Mac (`.dmg`) and Linux (`.AppImage`) in the **télécharger / descargar** channels of the [Discord](https://discord.gg/EmYwPHEqZH). A Bouftou license is purchased through the Discord store.
 
 <a id="faq"></a>
 
@@ -210,13 +210,13 @@ Tu te connectes à ton compte Ankama comme d'habitude. Ne donne jamais ton mot d
 En **français et en espagnol** : lanceur, interface et outils de Dofus Touch. Choisis ta langue dans **Paramètres › Général** ou avec le drapeau de la barre de gauche. L'interface n'est pas encore traduite en anglais.
 
 **Où signaler un bug ou faire une suggestion ?**
-Dans Bouftou (**Paramètres › Bug ou suggestion**) ou sur le [Discord](https://discord.gg/FvCvfg3us), qui dispose d'espaces français et espagnols.
+Dans Bouftou (**Paramètres › Bug ou suggestion**) ou sur le [Discord](https://discord.gg/EmYwPHEqZH), qui dispose d'espaces français et espagnols.
 
 ---
 
 <div align="center">
 
-**[Rejoins la communauté sur Discord](https://discord.gg/FvCvfg3us)** 🐑
+**[Rejoins la communauté sur Discord](https://discord.gg/EmYwPHEqZH)** 🐑
 
 ⭐ *Bouftou te plaît ? Une étoile sur ce dépôt aide d'autres joueurs à le trouver.*
 
