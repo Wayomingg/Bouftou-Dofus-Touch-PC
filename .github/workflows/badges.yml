@@ -1,0 +1,47 @@
+name: Statistiques du dépôt
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '17 */6 * * *'
+  release:
+    types: [published]
+  push:
+    branches: [main]
+    paths:
+      - outils/badges.cjs
+      - tests/badges.cjs
+      - .github/workflows/badges.yml
+
+permissions:
+  contents: write
+
+concurrency:
+  group: badges-main
+  cancel-in-progress: false
+
+jobs:
+  badges:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+      - name: Vérification des badges
+        run: node --test tests/badges.cjs
+      - name: Actualisation des valeurs
+        run: node outils/badges.cjs
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - name: Publication des images
+        shell: bash
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          for fichier in images/badge-version.svg images/badge-version-es.svg images/badge-discord-en.svg images/badge-discord-fr.svg images/badge-discord-es.svg images/badge-telechargements-en.svg images/badge-telechargements-fr.svg images/badge-telechargements-es.svg; do
+            git add "$fichier"
+          done
+          if ! git diff --cached --quiet; then
+            git commit -m 'Statistiques du dépôt'
+            git pull --rebase origin main
+            git push origin HEAD:main
+          fi

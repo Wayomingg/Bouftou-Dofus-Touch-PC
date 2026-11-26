@@ -12,9 +12,9 @@
 [![Présentation française](images/badge-langue-fr.svg)](README.fr.md#francais)
 [![Presentación en español](images/badge-langue-es.svg)](README.es.md#espanol)
 
-[![Discord](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fdiscord.com%2Fapi%2Fv10%2Finvites%2FEmYwPHEqZH%3Fwith_counts%3Dtrue&query=%24.approximate_member_count&label=Discord&suffix=%20members&logo=discord&logoColor=white&color=5865F2&style=for-the-badge)](https://discord.gg/EmYwPHEqZH)
-[![Version](https://img.shields.io/github/v/release/Wayomingg/Bouftou-Dofus-Touch-PC?label=version&color=cdb57e&style=for-the-badge)](https://github.com/Wayomingg/Bouftou-Dofus-Touch-PC/releases/latest)
-[![Downloads](https://img.shields.io/github/downloads/Wayomingg/Bouftou-Dofus-Touch-PC/total?label=downloads&color=b9e154&style=for-the-badge)](https://github.com/Wayomingg/Bouftou-Dofus-Touch-PC/releases/latest)
+[![Discord](images/badge-discord-en.svg)](https://discord.gg/EmYwPHEqZH)
+[![Version](images/badge-version.svg)](https://github.com/Wayomingg/Bouftou-Dofus-Touch-PC/releases/latest)
+[![Downloads](images/badge-telechargements-en.svg)](https://github.com/Wayomingg/Bouftou-Dofus-Touch-PC/releases/latest)
 
 [![Download for Windows](https://img.shields.io/badge/Download-Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/Wayomingg/Bouftou-Dofus-Touch-PC/releases/latest/download/Installer-Bouftou.exe)
 [![Download for Mac](https://img.shields.io/badge/Download-Mac-333333?style=for-the-badge&logo=apple&logoColor=white)](#installation)
