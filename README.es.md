@@ -30,24 +30,6 @@
 > [!IMPORTANT]
 > **Cuidado con las copias.** Las fuentes oficiales de descarga son **este repositorio** y el **[Discord de Bouftou](https://discord.gg/EmYwPHEqZH)**. Nunca compartas tu contraseña de Ankama ni tu código Shield con nadie.
 
-## ✨ Funciones
-
-- **Español, inglés y francés:** cambia de idioma en Configuración o con la bandera de la barra izquierda del juego.
-- **Más de 50 mejoras de comodidad:** información al pasar el mouse, atajos de teclado, animaciones de combate aceleradas, estados y barras de vida sobre los combatientes.
-- **Forjamagia inteligente:** define los objetivos de tu equipo y deja que Bouftou elija y coloque las runas.
-- **Piloto automático:** elige un destino y tu personaje viajará hasta allí usando zaaps y otros transportes.
-- **Asistente del Conde Kontatrás:** encuentra la casilla correcta a la que apuntar a pesar de la confusión del Conde.
-- **Enciclopedia:** consulta objetos, recetas y oportunidades de fabricación y trituración rentables.
-- **Stuffer, simulador de equipos:** prepara tus equipos, compara características y daños de hechizos, y usa el optimizador para encontrar una combinación para tu clase.
-- **Zonas rentables:** compara zonas de farmeo según los precios del mercadillo de tu servidor.
-- **Seguimiento del mercadillo:** sigue los precios, las oportunidades de inversión y las ofertas que bajan de las tuyas.
-- **Almanax:** consulta las ofrendas del día y el calendario, y prepara tu lista de compras. La ofrenda automática está desactivada temporalmente.
-- **Guías de mazmorras:** mecánicas de los jefes, hechizos, resistencias, acceso y botín, con 97 estrategias traducidas al inglés y al español.
-- **Skinator:** prueba sombreros, capas, escudos, mascotas y colores en tu personaje, y guarda tus apariencias favoritas.
-- **Multicuenta y pantalla dividida:** organiza tus personajes en pestañas o en pantalla dividida, en Windows, Mac y Linux.
-- **Inventario compartido:** consulta los objetos, los kamas y los pods de tu grupo en un solo panel.
-- **Mensajería unificada:** lee y responde a los mensajes privados de tus personajes sin cambiar de pestaña.
-
 ## 📸 Capturas
 
 Las capturas de abajo muestran la interfaz francesa. Bouftou también está disponible en español e inglés.
@@ -83,6 +65,24 @@ Las capturas de abajo muestran la interfaz francesa. Bouftou también está disp
   <img src="images/5-hotel-de-vente.jpg" width="49%" alt="Seguimiento del mercadillo">
   <img src="images/6-almanax.jpg" width="49%" alt="Almanax">
 </p>
+
+## ✨ Funciones
+
+- **Español, inglés y francés:** cambia de idioma en Configuración o con la bandera de la barra izquierda del juego.
+- **Más de 50 mejoras de comodidad:** información al pasar el mouse, atajos de teclado, animaciones de combate aceleradas, estados y barras de vida sobre los combatientes.
+- **Forjamagia inteligente:** define los objetivos de tu equipo y deja que Bouftou elija y coloque las runas.
+- **Piloto automático:** elige un destino y tu personaje viajará hasta allí usando zaaps y otros transportes.
+- **Asistente del Conde Kontatrás:** encuentra la casilla correcta a la que apuntar a pesar de la confusión del Conde.
+- **Enciclopedia:** consulta objetos, recetas y oportunidades de fabricación y trituración rentables.
+- **Stuffer, simulador de equipos:** prepara tus equipos, compara características y daños de hechizos, y usa el optimizador para encontrar una combinación para tu clase.
+- **Zonas rentables:** compara zonas de farmeo según los precios del mercadillo de tu servidor.
+- **Seguimiento del mercadillo:** sigue los precios, las oportunidades de inversión y las ofertas que bajan de las tuyas.
+- **Almanax:** consulta las ofrendas del día y el calendario, y prepara tu lista de compras. La ofrenda automática está desactivada temporalmente.
+- **Guías de mazmorras:** mecánicas de los jefes, hechizos, resistencias, acceso y botín, con 97 estrategias traducidas al inglés y al español.
+- **Skinator:** prueba sombreros, capas, escudos, mascotas y colores en tu personaje, y guarda tus apariencias favoritas.
+- **Multicuenta y pantalla dividida:** organiza tus personajes en pestañas o en pantalla dividida, en Windows, Mac y Linux.
+- **Inventario compartido:** consulta los objetos, los kamas y los pods de tu grupo en un solo panel.
+- **Mensajería unificada:** lee y responde a los mensajes privados de tus personajes sin cambiar de pestaña.
 
 ## 🔁 ¿Buscas una alternativa a Lindo?
 

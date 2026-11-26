@@ -30,24 +30,6 @@
 > [!IMPORTANT]
 > **Méfie-toi des copies.** Les sources officielles de téléchargement sont **ce dépôt** et le **[Discord de Bouftou](https://discord.gg/EmYwPHEqZH)**. Ne donne jamais ton mot de passe Ankama ni ton code Shield à personne.
 
-## ✨ Fonctionnalités
-
-- **Français, anglais et espagnol :** change de langue dans les Paramètres ou avec le drapeau de la barre de gauche du jeu.
-- **Plus de 50 améliorations de confort :** informations au survol, raccourcis clavier, animations de combat accélérées, états et barres de vie au-dessus des combattants.
-- **Forgemagie intelligente :** fixe les objectifs de ton équipement, Bouftou choisit et pose les runes pour toi.
-- **Pilote automatique :** choisis une destination, ton personnage s’y rend avec les zaaps et les autres transports.
-- **Assistant Harebourg :** trouve la bonne case à viser malgré la confusion du Comte.
-- **Encyclopédie :** consulte les objets, les recettes et les possibilités de craft et de brisage rentables.
-- **Stuffer :** prépare tes équipements, compare les caractéristiques et les dégâts des sorts, et utilise l’optimiseur pour trouver un stuff adapté à ta classe.
-- **Zones rentables :** compare les zones de farm selon les prix du marché de ton serveur.
-- **Veille du marché :** suis les prix, les possibilités d’investissement et les offres qui passent sous les tiennes.
-- **Almanax :** consulte les offrandes du jour et le calendrier, et prépare ta liste de courses. L’offrande automatique est temporairement désactivée.
-- **Guides des donjons :** mécaniques des boss, sorts, résistances, accès et butins, avec 97 stratégies traduites en anglais et en espagnol.
-- **Skinator :** essaie chapeaux, capes, boucliers, familiers et couleurs sur ton personnage, puis garde tes tenues préférées.
-- **Multicompte et écran partagé :** organise tes personnages en onglets ou en écran partagé, sur Windows, Mac et Linux.
-- **Inventaire partagé :** consulte les objets, les kamas et les pods de ton groupe dans un seul panneau.
-- **Messagerie unifiée :** lis les messages privés de tes personnages et réponds sans changer d’onglet.
-
 ## 📸 Captures
 
 Les captures ci-dessous montrent l’interface française. Bouftou est aussi disponible en anglais et en espagnol.
@@ -83,6 +65,24 @@ Les captures ci-dessous montrent l’interface française. Bouftou est aussi dis
   <img src="images/5-hotel-de-vente.jpg" width="49%" alt="Veille du marché">
   <img src="images/6-almanax.jpg" width="49%" alt="Almanax">
 </p>
+
+## ✨ Fonctionnalités
+
+- **Français, anglais et espagnol :** change de langue dans les Paramètres ou avec le drapeau de la barre de gauche du jeu.
+- **Plus de 50 améliorations de confort :** informations au survol, raccourcis clavier, animations de combat accélérées, états et barres de vie au-dessus des combattants.
+- **Forgemagie intelligente :** fixe les objectifs de ton équipement, Bouftou choisit et pose les runes pour toi.
+- **Pilote automatique :** choisis une destination, ton personnage s’y rend avec les zaaps et les autres transports.
+- **Assistant Harebourg :** trouve la bonne case à viser malgré la confusion du Comte.
+- **Encyclopédie :** consulte les objets, les recettes et les possibilités de craft et de brisage rentables.
+- **Stuffer :** prépare tes équipements, compare les caractéristiques et les dégâts des sorts, et utilise l’optimiseur pour trouver un stuff adapté à ta classe.
+- **Zones rentables :** compare les zones de farm selon les prix du marché de ton serveur.
+- **Veille du marché :** suis les prix, les possibilités d’investissement et les offres qui passent sous les tiennes.
+- **Almanax :** consulte les offrandes du jour et le calendrier, et prépare ta liste de courses. L’offrande automatique est temporairement désactivée.
+- **Guides des donjons :** mécaniques des boss, sorts, résistances, accès et butins, avec 97 stratégies traduites en anglais et en espagnol.
+- **Skinator :** essaie chapeaux, capes, boucliers, familiers et couleurs sur ton personnage, puis garde tes tenues préférées.
+- **Multicompte et écran partagé :** organise tes personnages en onglets ou en écran partagé, sur Windows, Mac et Linux.
+- **Inventaire partagé :** consulte les objets, les kamas et les pods de ton groupe dans un seul panneau.
+- **Messagerie unifiée :** lis les messages privés de tes personnages et réponds sans changer d’onglet.
 
 ## 🔁 Tu cherches une alternative à Lindo ?
 

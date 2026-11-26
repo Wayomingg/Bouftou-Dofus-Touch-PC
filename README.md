@@ -30,24 +30,6 @@
 > [!IMPORTANT]
 > **Watch out for copies.** Bouftou's official download sources are **this repository** and the **[Bouftou Discord](https://discord.gg/EmYwPHEqZH)**. Never share your Ankama password or Shield code with anyone.
 
-## ✨ Features
-
-- **English, French and Spanish:** switch languages in Settings or with the flag in the game's left sidebar.
-- **50+ quality-of-life improvements:** hover information, keyboard shortcuts, faster combat animations, status icons and health bars above fighters.
-- **Smart forgemaging:** set your equipment targets and let Bouftou choose and apply the runes.
-- **Autopilot:** pick a destination and let your character travel there, using zaaps and other transport.
-- **Count Harebourg assistant:** find the right cell to target despite the Count's confusion mechanic.
-- **Item encyclopedia:** browse items, recipes, crafting and rune-crushing opportunities.
-- **Stuffer gear builder:** plan equipment, compare stats and spell damage, and use the gear optimizer to find a setup for your class.
-- **Profitable farming zones:** compare areas using your server's market prices.
-- **Market tracking:** follow prices, investment opportunities and listings that undercut yours.
-- **Almanax:** check daily offerings, browse the calendar and prepare a shopping list. Automatic offerings are temporarily disabled.
-- **Dungeon guides:** boss mechanics, spells, resistances, access and loot, with 97 strategies translated into English and Spanish.
-- **Skinator:** try hats, capes, shields, pets and character colors, then save your favorite looks.
-- **Multi-account tabs and split screen:** organize your characters in one desktop interface on Windows, Mac and Linux.
-- **Shared inventory:** see your group's items, kamas and carrying capacity in one panel.
-- **Unified messaging:** read and reply to your characters' private messages without switching tabs.
-
 ## 📸 Screenshots
 
 The screenshots below show the French interface. Bouftou is also available in English and Spanish.
@@ -83,6 +65,24 @@ The screenshots below show the French interface. Bouftou is also available in En
   <img src="images/5-hotel-de-vente.jpg" width="49%" alt="Market tracking">
   <img src="images/6-almanax.jpg" width="49%" alt="Almanax">
 </p>
+
+## ✨ Features
+
+- **English, French and Spanish:** switch languages in Settings or with the flag in the game's left sidebar.
+- **50+ quality-of-life improvements:** hover information, keyboard shortcuts, faster combat animations, status icons and health bars above fighters.
+- **Smart forgemaging:** set your equipment targets and let Bouftou choose and apply the runes.
+- **Autopilot:** pick a destination and let your character travel there, using zaaps and other transport.
+- **Count Harebourg assistant:** find the right cell to target despite the Count's confusion mechanic.
+- **Item encyclopedia:** browse items, recipes, crafting and rune-crushing opportunities.
+- **Stuffer gear builder:** plan equipment, compare stats and spell damage, and use the gear optimizer to find a setup for your class.
+- **Profitable farming zones:** compare areas using your server's market prices.
+- **Market tracking:** follow prices, investment opportunities and listings that undercut yours.
+- **Almanax:** check daily offerings, browse the calendar and prepare a shopping list. Automatic offerings are temporarily disabled.
+- **Dungeon guides:** boss mechanics, spells, resistances, access and loot, with 97 strategies translated into English and Spanish.
+- **Skinator:** try hats, capes, shields, pets and character colors, then save your favorite looks.
+- **Multi-account tabs and split screen:** organize your characters in one desktop interface on Windows, Mac and Linux.
+- **Shared inventory:** see your group's items, kamas and carrying capacity in one panel.
+- **Unified messaging:** read and reply to your characters' private messages without switching tabs.
 
 ## 🔁 Looking for a Lindo alternative?
 
