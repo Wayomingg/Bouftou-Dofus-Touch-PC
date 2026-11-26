@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="images/banniere.jpg" alt="Bouftou — Dofus Touch en PC, Mac y Linux" width="100%">
+<img src="images/carrousel.webp" alt="Bouftou — Dofus Touch en PC, Mac y Linux" width="100%">
 
 <a id="espanol"></a>
 
@@ -33,10 +33,6 @@
 ## 📸 Capturas
 
 Las capturas de abajo muestran la interfaz francesa. Bouftou también está disponible en español e inglés.
-
-<p align="center">
-  <img src="images/carrousel.webp" width="100%" alt="Capturas de Bouftou: Dofus Touch en juego, Stuffer, enciclopedia, zonas rentables, guías de mazmorras, Skinator y launcher">
-</p>
 
 <table>
   <tr>
