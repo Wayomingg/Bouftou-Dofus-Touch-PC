@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="182" height="28" viewBox="0 0 182 28" role="img" aria-labelledby="titre">
-  <title id="titre">English overview</title>
+  <title id="titre">English presentation</title>
   <rect width="182" height="28" rx="3" fill="#30363d"/>
   <svg x="8" y="4" width="28" height="20" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 30 21">
   <!-- Drapeau de la langue anglaise (barre de gauche, menu de langue) : Royaume-Uni par convention, croix simplifiées à cette taille ; liseré brun et reflet comme les icônes du jeu. -->
@@ -21,5 +21,5 @@
   </g>
   <rect x="1" y="1" width="28" height="19" rx="3" fill="none" stroke="#2a2016" stroke-width="1.6"/>
 </svg>
-  <text x="44" y="18" fill="#fff" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" font-size="11" font-weight="bold">English overview</text>
+  <text x="44" y="18" fill="#fff" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" font-size="11" font-weight="bold">English presentation</text>
 </svg>

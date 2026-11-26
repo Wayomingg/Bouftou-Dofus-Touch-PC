@@ -8,7 +8,7 @@
 
 **Play Dofus Touch on PC (Windows), Mac and Linux without an Android emulator, in English, French or Spanish.** Bouftou brings mouse and keyboard controls, multi-account tabs, split screen and built-in tools for your gear, travel, combat and characters. Play on Ankama’s official servers with your usual account.
 
-[![English overview](images/badge-langue-en.svg)](README.md#english)
+[![English presentation](images/badge-langue-en.svg)](README.md#english)
 [![Présentation française](images/badge-langue-fr.svg)](README.fr.md#francais)
 [![Presentación en español](images/badge-langue-es.svg)](README.es.md#espanol)
 
@@ -140,7 +140,13 @@ If it does not match the published checksum, do not run the file and contact us 
 
 **Can I use several accounts?** Yes. Use character tabs or split screen within Bouftou.
 
+**Which systems are supported?** Windows 10 and 11 (64-bit), macOS 12 or later on Apple Silicon or Intel, and 64-bit Linux. See [installation](#installation).
+
+**What about my Ankama account?** Sign in as usual in the game. Never share your password or Shield code, even with someone claiming to be from the Bouftou team.
+
 **Which languages are supported?** English, French and Spanish. Change the language in **Settings › General** or with the flag in the game's sidebar.
+
+**Where can I see what’s new?** In the launcher’s patch notes tab and in your language’s patch notes channel on Discord.
 
 **Where can I report a bug or make a suggestion?** In Bouftou's settings or on the [Bouftou Discord](https://discord.gg/EmYwPHEqZH), with support spaces in English, French and Spanish.
 
