@@ -19,11 +19,11 @@
 [![Français](https://img.shields.io/badge/Langue-Fran%C3%A7ais-cdb57e?style=for-the-badge)](#francais)
 [![Español](https://img.shields.io/badge/Idioma-Espa%C3%B1ol-b9e154?style=for-the-badge)](#espanol)
 
-[![Windows](https://img.shields.io/badge/Windows-10%20%7C%2011-0078D4?style=for-the-badge&logo=windows&logoColor=white)](#installation)
-[![macOS](https://img.shields.io/badge/macOS-Apple%20Silicon%20%7C%20Intel-000000?style=for-the-badge&logo=apple&logoColor=white)](#installation)
-[![Linux](https://img.shields.io/badge/Linux-AppImage%20x64-FCC624?style=for-the-badge&logo=linux&logoColor=black)](#installation)
+[![Télécharger pour Windows](https://img.shields.io/badge/T%C3%A9l%C3%A9charger-Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/Wayomingg/Bouftou-Dofus-Touch-PC/releases/latest/download/Installer-Bouftou.exe)
+[![Télécharger pour Mac](https://img.shields.io/badge/T%C3%A9l%C3%A9charger-Mac-333333?style=for-the-badge&logo=apple&logoColor=white)](#installation)
+[![Télécharger pour Linux](https://img.shields.io/badge/T%C3%A9l%C3%A9charger-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)][telechargement-linux]
 
-**[📥 Télécharger pour Windows](https://github.com/Wayomingg/Bouftou-Dofus-Touch-PC/releases/latest)** · **[🍎 Mac et 🐧 Linux](#installation)** · **[🛡️ Vérifier sur VirusTotal](https://www.virustotal.com/gui/file/bc0df71f9414673e7b7d1f7af15ebd2f3d60a247c4e2d335f52e0227f950e0cb)**
+**[🛡️ Vérifier sur VirusTotal](https://www.virustotal.com/gui/file/bc0df71f9414673e7b7d1f7af15ebd2f3d60a247c4e2d335f52e0227f950e0cb)**
 
 </div>
 
@@ -109,8 +109,8 @@ Ce que Bouftou envoie à ses propres serveurs, et rien d'autre : ton compte Disc
 | | Système | Fichier | Où le trouver |
 |---|---|---|---|
 | 🪟 | **Windows** 10 et 11 (64 bits) | `Installer-Bouftou.exe` | [Releases](https://github.com/Wayomingg/Bouftou-Dofus-Touch-PC/releases/latest) ou salon **télécharger** du Discord |
-| 🍎 | **macOS** 12 ou plus récent, puce Apple ou Intel | `.dmg` | Salon **télécharger** du [Discord](https://discord.gg/EmYwPHEqZH) |
-| 🐧 | **Linux** 64 bits | `.AppImage` | Salon **télécharger** du [Discord](https://discord.gg/EmYwPHEqZH) |
+| 🍎 | **macOS** 12 ou plus récent, puce Apple ou Intel | `.dmg` | [Puce Apple][telechargement-mac-apple] · [Intel][telechargement-mac-intel] |
+| 🐧 | **Linux** 64 bits | `.AppImage` | [Télécharger AppImage][telechargement-linux] |
 
 Bouftou se met ensuite à jour tout seul, sur les trois systèmes.
 
@@ -157,8 +157,8 @@ Si l'empreinte affichée est différente, ne lance pas le fichier et préviens-n
 | Sistema | Archivo | Descarga |
 |---|---|---|
 | **Windows 10 y 11, 64 bits** | `Installer-Bouftou.exe` | [Releases de GitHub](https://github.com/Wayomingg/Bouftou-Dofus-Touch-PC/releases/latest) o canal **descargar** de Discord |
-| **macOS 12 o posterior, Apple Silicon e Intel** | `.dmg` | Canal **descargar** de [Discord](https://discord.gg/EmYwPHEqZH) |
-| **Linux, 64 bits** | `.AppImage` | Canal **descargar** de [Discord](https://discord.gg/EmYwPHEqZH) |
+| **macOS 12 o posterior, Apple Silicon e Intel** | `.dmg` | [Apple Silicon][telechargement-mac-apple] · [Intel][telechargement-mac-intel] |
+| **Linux, 64 bits** | `.AppImage` | [Descargar AppImage][telechargement-linux] |
 
 1. Descarga el archivo para tu sistema. En Mac, abre el `.dmg` y arrastra Bouftou a **Aplicaciones**; en Linux, dale permiso de ejecución al `.AppImage`.
 2. Abre el launcher e inicia sesión con tu cuenta Discord para verificar tu acceso a Dofus Touch.
@@ -223,3 +223,7 @@ Dans Bouftou (**Paramètres › Bug ou suggestion**) ou sur le [Discord](https:/
 <sub>Projet non officiel, non affilié à Ankama. Dofus Touch est une marque d'Ankama.</sub>
 
 </div>
+
+[telechargement-mac-apple]: https://bouftou-boutique.discord-boutique.workers.dev/telecharger/installateur/0.4.36/Bouftou-0.4.36-mac-arm64.dmg
+[telechargement-mac-intel]: https://bouftou-boutique.discord-boutique.workers.dev/telecharger/installateur/0.4.36/Bouftou-0.4.36-mac-x64.dmg
+[telechargement-linux]: https://bouftou-boutique.discord-boutique.workers.dev/telecharger/installateur/0.4.36/Bouftou-0.4.36-linux-x64.AppImage
