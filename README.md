@@ -23,7 +23,7 @@
 [![macOS](https://img.shields.io/badge/macOS-Apple%20Silicon%20%7C%20Intel-000000?style=for-the-badge&logo=apple&logoColor=white)](#installation)
 [![Linux](https://img.shields.io/badge/Linux-AppImage%20x64-FCC624?style=for-the-badge&logo=linux&logoColor=black)](#installation)
 
-**[📥 Télécharger pour Windows](https://github.com/Wayomingg/Bouftou-Dofus-Touch-PC/releases/latest)** · **[🍎 Mac et 🐧 Linux](#installation)** · **[🛡️ Vérifier sur VirusTotal](https://www.virustotal.com/gui/file/9d245202468cb3a10f08a3672e4e57a2e3a22e060acb7a7e7d15a449579ef8b3)**
+**[📥 Télécharger pour Windows](https://github.com/Wayomingg/Bouftou-Dofus-Touch-PC/releases/latest)** · **[🍎 Mac et 🐧 Linux](#installation)** · **[🛡️ Vérifier sur VirusTotal](https://www.virustotal.com/gui/file/bc0df71f9414673e7b7d1f7af15ebd2f3d60a247c4e2d335f52e0227f950e0cb)**
 
 </div>
 
