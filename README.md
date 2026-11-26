@@ -23,7 +23,7 @@
 [![Télécharger pour Mac](https://img.shields.io/badge/T%C3%A9l%C3%A9charger-Mac-333333?style=for-the-badge&logo=apple&logoColor=white)](#installation)
 [![Télécharger pour Linux](https://img.shields.io/badge/T%C3%A9l%C3%A9charger-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)][telechargement-linux]
 
-**[🛡️ Vérifier sur VirusTotal](https://www.virustotal.com/gui/file/bc0df71f9414673e7b7d1f7af15ebd2f3d60a247c4e2d335f52e0227f950e0cb)**
+[![Vérifier sur VirusTotal](https://img.shields.io/badge/V%C3%A9rifier%20sur-VirusTotal-394EFF?style=for-the-badge&logo=virustotal&logoColor=white)](https://www.virustotal.com/gui/file/bc0df71f9414673e7b7d1f7af15ebd2f3d60a247c4e2d335f52e0227f950e0cb)
 
 </div>
 
