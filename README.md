@@ -4,7 +4,7 @@
 
 <a id="francais"></a>
 
-# 🐑 Bouftou — Dofus Touch sur PC, Mac et Linux, sans émulateur
+# 🐑 Bouftou — Dofus Touch sur PC, Mac et Linux, sans émulateur 🇫🇷 🇬🇧 🇪🇸
 
 **Joue à Dofus Touch sur PC Windows, Mac et Linux, sans émulateur Android, en français ou en espagnol.** Bouftou adapte le jeu à la souris et au clavier, avec des outils intégrés pour tes équipements, tes déplacements, tes combats et tes comptes. Tu retrouves les serveurs officiels d'Ankama et tes personnages habituels.
 
