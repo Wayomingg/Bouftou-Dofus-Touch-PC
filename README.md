@@ -20,7 +20,7 @@
 [![Download for Mac](https://img.shields.io/badge/Download-Mac-333333?style=for-the-badge&logo=apple&logoColor=white)](#installation)
 [![Download for Linux](https://img.shields.io/badge/Download-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)][telechargement-linux]
 
-[![Check on VirusTotal](https://img.shields.io/badge/Check%20on-VirusTotal-394EFF?style=for-the-badge&logo=virustotal&logoColor=white)](https://www.virustotal.com/gui/file/5f1c34c34c876061837b8598103f3c181befa613d39f908abd08c8d83dd91e85)
+[![Check on VirusTotal](https://img.shields.io/badge/Check%20on-VirusTotal-394EFF?style=for-the-badge&logo=virustotal&logoColor=white)](https://www.virustotal.com/gui/file/d405e1cd67056f4b1114c2ec5b4c0bc142ea37934e9f3197ce3f7d0ac651a045)
 
 </div>
 
@@ -158,6 +158,6 @@ If it does not match the published checksum, do not run the file and contact us 
 
 </div>
 
-[telechargement-mac-apple]: https://bouftou-boutique.discord-boutique.workers.dev/telecharger/installateur/0.4.40/Bouftou-0.4.40-mac-arm64.dmg
-[telechargement-mac-intel]: https://bouftou-boutique.discord-boutique.workers.dev/telecharger/installateur/0.4.40/Bouftou-0.4.40-mac-x64.dmg
-[telechargement-linux]: https://bouftou-boutique.discord-boutique.workers.dev/telecharger/installateur/0.4.40/Bouftou-0.4.40-linux-x64.AppImage
+[telechargement-mac-apple]: https://bouftou-boutique.discord-boutique.workers.dev/telecharger/installateur/0.4.41/Bouftou-0.4.41-mac-arm64.dmg
+[telechargement-mac-intel]: https://bouftou-boutique.discord-boutique.workers.dev/telecharger/installateur/0.4.41/Bouftou-0.4.41-mac-x64.dmg
+[telechargement-linux]: https://bouftou-boutique.discord-boutique.workers.dev/telecharger/installateur/0.4.41/Bouftou-0.4.41-linux-x64.AppImage
